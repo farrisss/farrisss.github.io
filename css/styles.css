@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Merriweather+Sans');
+h1, h2, h3 {
+   font-family: 'Josefin Sans', sans-serif;
+   color: #5EE4FF;
+}
+
+p, li {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #5EE4FF;
+}
+
+body {
+    background: url('../images/abstract-mosaic-background.png')
+    no-repeat center center fixed;
+}
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+
+header, footer {
+    background-color:#ED75B4;
+    text-align: center;
+    padding: 15px 30px 15px 30px;
+}
+
+.main-content{
+    background-color: #E86B0C;
+    padding: 10px 0;
+    border-top: 2px solid #FFCD20;
+}
+
+header img {
+    width: 50%;
+    border-radius: 55px;
+}
+
+.main-content ul {
+    list-style-type:none;
+    padding-left: 0;
+    margin:0 auto;
+    text-align: center;
+}
+
+.main-content ul li {
+    padding: 10px;
+    display: inline;
+}
+
+a {
+    color: #9E75ED;
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.main-content p {
+    margin: 10px 40px;
+}
+
+.main-content h2 {
+    text-align: center;
+}
+
+#projects {
+    background-color: #FF0000;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.project {
+    width: 30%;
+    display: inline-block;
+    background-color: #7875ED;
+    margin: 1.66%;
+    border-radius: 15px;
+    float: left;
+}
+
+.project img {
+    max-width: 100%;
+}
+
+
