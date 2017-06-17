@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Merriweather+Sans');
 h1, h2, h3 {
    font-family: 'Josefin Sans', sans-serif;
-   color: #5EE4FF;
+   color: #000000;
 }
 
 p, li {
     font-family: 'Merriweather Sans', sans-serif;
-    color: #5EE4FF;
+    color: #000000;
 }
 
 body {
@@ -19,13 +19,13 @@ body {
 }
 
 header, footer {
-    background-color:#ED75B4;
+    background-color:#ffffff;
     text-align: center;
     padding: 15px 30px 15px 30px;
 }
 
 .main-content{
-    background-color: #E86B0C;
+    background-color: #DEEEFF;
     padding: 10px 0;
     border-top: 2px solid #FFCD20;
 }
@@ -62,7 +62,7 @@ a {
 }
 
 #projects {
-    background-color: #FF0000;
+    background-color: #DEEEFF;
 }
 
 .clearfix:after {
