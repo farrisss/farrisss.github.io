@@ -27,7 +27,7 @@ header, footer {
 .main-content{
     background-color: #ffffff;
     padding: 10px 0;
-    border-top: 2px solid #FFCD20;
+    border-top: 2px solid #000000;
 }
 
 header img {
@@ -48,7 +48,7 @@ header img {
 }
 
 a {
-    color: #9E75ED;
+    color: #000000;
     text-decoration: none;
     font-family: 'Josefin Sans', sans-serif;
 }
@@ -74,7 +74,7 @@ a {
 .project {
     width: 30%;
     display: inline-block;
-    background-color: #7875ED;
+    background-color: #ffffff;
     margin: 1.66%;
     border-radius: 15px;
     float: left;
