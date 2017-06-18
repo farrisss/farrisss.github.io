@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Merriweather+Sans');
+@import url('https://fonts.googleapis.com/css?family=Spectral');
 h1, h2, h3 {
-   font-family: 'Josefin Sans', sans-serif;
+   font-family: 'Spectral', serif;
    color: #000000;
 }
 
