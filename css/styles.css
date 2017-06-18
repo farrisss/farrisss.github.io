@@ -25,9 +25,9 @@ header, footer {
 }
 
 .main-content{
-    background-color: #ffffff;
+    background-color:#ffffff;
     padding: 10px 0;
-    border-top: 2px solid #000000;
+    border-top: 2px bold #000000;
 }
 
 header img {
