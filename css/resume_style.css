@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Merriweather+Sans');
+@import url('https://fonts.googleapis.com/css?family=Spectral');
+
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+    width: 960px;
+    margin: 0 auto;
+}
+h1, h2, h3 {
+    font-family: 'Spectral', serif;
+}
+
+.header {
+    display: inline-block;
+    width: 400px;
+    vertical-align:top;
+}
+
+.work {
+    display: inline-block;
+    width: 400px;
+}
