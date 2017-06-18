@@ -11,8 +11,7 @@ p, li {
 }
 
 body {
-    background: img src="https://previews.123rf.com/images/attitude/attitude1503/attitude150300104/37726168-peach-orange-background-with-stripes-in-diagonal-pattern-and-faint-texture-Stock-Photo.jpg"
-    no-repeat center center fixed;
+    background: img src="https://previews.123rf.com/images/attitude/attitude1503/attitude150300104/37726168-peach-orange-background-with-stripes-in-diagonal-pattern-and-faint-texture-Stock-Photo.jpg";
 }
 .wrapper {
     width: 960px;
