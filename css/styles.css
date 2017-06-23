@@ -12,9 +12,6 @@ p, li {
     color: #000000;
 }
 
-body {
-    /*background: img src="https://previews.123rf.com/images/attitude/attitude1503/attitude150300104/37726168-peach-orange-background-with-stripes-in-diagonal-pattern-and-faint-texture-Stock-Photo.jpg";*/
-}
 .wrapper {
     width: 960px;
     margin: 0 auto;
@@ -29,7 +26,7 @@ header, footer {
 .main-content{
     background-color:#ffffff;
     padding: 10px 0;
-    border-top: 2px bold #000000;
+    border-bottom: 2px bold #000000;
 }
 
 header img {
@@ -57,6 +54,8 @@ a {
 
 .main-content p {
     margin: 10px 40px;
+    text-align: center;
+    padding: 20px;
 }
 
 .main-content h2 {
